@@ -864,14 +864,8 @@
     }
   },
   "files": {
-    "data/expansions.csv": {
-      "checksum": "8076d2119dfa24671ecf98ae5a869a86"
-    },
-    "MiddleCottage/server.R": {
-      "checksum": "d4aaeac9c18a9f8816203c1ff80c23e6"
-    },
-    "MiddleCottage/ui.R": {
-      "checksum": "e0e3bb30cf1326119c8bc7e24bc48673"
+    "MiddleCottage/app.R": {
+      "checksum": "075e7ceeefff3edeaef854d1353ab11b"
     },
     "README.md": {
       "checksum": "0bcc01a2a054ef5116e50bb14ce3d298"
